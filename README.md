@@ -57,6 +57,7 @@ Experience the full interactive prototype of SnapBeat:
 👨‍💻 Author
 
 Saksham Sharma
+
 Feel free to connect or contribute!
 
 
